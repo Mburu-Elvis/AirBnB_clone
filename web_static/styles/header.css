@@ -1,5 +1,10 @@
 header {
-	background-color: #FF0000;
 	height: 70px;
 	width: 100%;
+	color: #FFFFFF;
+	border-bottom: 1px #CCCCCC;
+}
+img {
+	padding-left: 20px;
+	float: left;
 }
