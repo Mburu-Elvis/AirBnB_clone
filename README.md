@@ -23,46 +23,46 @@ Once the console is running, users can interact with it using various commands. 
 
 **create:**
 
-Usage: `create <class>`
-Description: Creates a new instance of the specified class (BaseModel, City, User, etc.) and generates a unique identifier for it. The instance is then saved to the data storage.
+Usage: `create <class>`  
+Description: Creates a new instance of the specified class (BaseModel, City, User, etc.) and generates a unique identifier for it. The instance is then saved to the data storage.  
 
 **show:**
 
-Usage: `show <class> <id>`
-Description: Displays the string representation of the instance specified by its class name and unique identifier (id).
+Usage: `show <class> <id>`  
+Description: Displays the string representation of the instance specified by its class name and unique identifier (id).  
 
 **destroy:**
 
-Usage: `destroy <class> <id>`
-Description: Deletes the instance specified by its class name and unique identifier (id) from the data storage.
+Usage: `destroy <class> <id>`  
+Description: Deletes the instance specified by its class name and unique identifier (id) from the data storage.  
 
 **all:**
 
-Usage: `all [<class>]`
-Description: If no class is specified, displays the string representations of all instances stored in the data storage. If a class is specified, displays the string representations of instances of that class only.
+Usage: `all [<class>]`  
+Description: If no class is specified, displays the string representations of all instances stored in the data storage. If a class is specified, displays the string representations of instances of that class only.  
 
 **update:**
 
-Usage: `update <class> <id> <attribute_name> "<attribute_value>"`
-Description: Updates the specified attribute of the instance identified by its class name and unique identifier (id) with the new value provided.
+Usage: `update <class> <id> <attribute_name> "<attribute_value>"`  
+Description: Updates the specified attribute of the instance identified by its class name and unique identifier (id) with the new value provided.  
 
 **quit/EOF:**
 
-Usage: `quit` or `Ctrl+D`
-Description: Quits the AirBnB Clone Console.
+Usage: `quit` or `Ctrl+D`  
+Description: Quits the AirBnB Clone Console.  
 
 **Additional Features:**
 
-- The console automatically saves changes to the data storage after each operation.
-- Error handling is implemented to handle invalid inputs and edge cases.
+- The console automatically saves changes to the data storage after each operation.  
+- Error handling is implemented to handle invalid inputs and edge cases.  
 
 **Contributing:**
 
-Contributions to the AirBnB Clone Console project are welcome! If you'd like to contribute, please follow the guidelines outlined in the project's repository.
+Contributions to the AirBnB Clone Console project are welcome! If you'd like to contribute, please follow the guidelines outlined in the project's repository.  
 
 **Credits:**
 
-The AirBnB Clone Console project was developed by Elvis Mburu and Sandra Mabonga. Special thanks to the contributors and the AirBnB team for inspiration.
+The AirBnB Clone Console project was developed by Elvis Mburu and Sandra Mabonga. Special thanks to the contributors and the AirBnB team for inspiration.  
 
 **Contact:**
-For any inquiries or feedback regarding the AirBnB Clone Console project, please contact [email](mburuelvis21@gmail.com).
+For any inquiries or feedback regarding the AirBnB Clone Console project, please contact [email](mburuelvis21@gmail.com).  
